@@ -6,7 +6,12 @@
 <script>
 import { createClient } from "~/plugins/contentful.js";
 const client = createClient();
+import Item from "@/components/Item";
+
 export default {
+  components: {
+    Item
+  },
   asyncData(params) {
     return Promise.all([
       client.getEntries({

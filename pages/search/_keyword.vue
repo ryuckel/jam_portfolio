@@ -6,16 +6,13 @@
 
 <script>
 import Item from "@/components/Item";
-
 import { createClient } from "~/plugins/contentful.js";
 const client = createClient();
-
 export default {
   components: {
     Item
   },
-
-  asyncData(params) {
+  asyncData({ env, params }) {
     return Promise.all([
       client.getEntries({
         content_type: "work",
