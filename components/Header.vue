@@ -12,7 +12,7 @@
             Python/Docker/AWS(ECS,ECRが中心) も使えます。<br />
             TypeScript/Go/Kotlin/数学や統計学なども勉強しています。<br />
             ご依頼はメールアドレスからお願いします。<br />
-            email:bkuce826@gmail.com
+            Email:bkuce826@gmail.com
           </p>
         </div>
       </div>
