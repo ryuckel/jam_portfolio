@@ -12,7 +12,7 @@
             Python/Docker/AWS(ECS,ECRが中心) も使えます。<br />
             TypeScript/Go/Kotlin/数学や統計学なども勉強しています。<br />
             ご依頼はメールアドレスからお願いします。<br />
-            Email:bkuce826@gmail.com
+            Email:bluce826@gmail.com
           </p>
         </div>
       </div>
@@ -25,7 +25,7 @@
             Works
           </button>
         </nuxt-link>
-        <a href="http://" target="_blank" rel="noopener noreferrer">
+        <a href="https://twitter.com/r_pg10" target="_blank" rel="noopener noreferrer">
           <button>
             <fa-layers full-width class="fa-2x block mx-auto mb-1">
               <fa :icon="faTwitter" />
@@ -34,7 +34,7 @@
           </button>
         </a>
         <a
-          href="https://github.com/si-zerodarkthirty"
+          href="https://github.com/ryuckel"
           target="_blank"
           rel="noopener noreferrer"
         >
